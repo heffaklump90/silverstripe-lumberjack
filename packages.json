@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "heffaklump90/lumberjack": {
+            "dev-master": { @composer.json }
+        }
+    }
+}
